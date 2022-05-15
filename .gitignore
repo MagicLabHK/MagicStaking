@@ -83,3 +83,13 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
